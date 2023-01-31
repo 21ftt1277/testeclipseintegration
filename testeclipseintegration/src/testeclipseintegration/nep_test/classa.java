@@ -2,18 +2,18 @@ package testeclipseintegration.nep_test;
 
 public class classa {
 	
-	private String abc;
+	private String abcd;
 	
-	public classa(String abc) {
-		this.abc = abc;
+	public classa(String abcd) {
+		this.abcd = abcd;
 	}
 	
 	public String getAbc() {
-		return abc;
+		return abcd;
 	}
 	
-	public void setAbc(String abc) {
-	this.abc = abc;
+	public void setAbc(String abcd) {
+	this.abcd = abcd;
 	}
 
 }
